@@ -697,7 +697,7 @@
     "name": "Binance-Peg Dogecoin",
     "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
     "symbol": "DOGE",
-    "decimals": 18,
+    "decimals": 8,
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
   }
