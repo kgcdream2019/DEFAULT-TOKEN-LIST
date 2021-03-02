@@ -749,10 +749,10 @@
   ,
   {
     "name": "RAMP DEFI on BSC",
-    "address": "0xEE8ffef592612e6657828B40d8AaeF3562BBE3d8",
+    "address": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
     "symbol": "RAMP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xEE8ffef592612e6657828B40d8AaeF3562BBE3d8.png"
+    "logoURI": "https://tokens.julswap.com/images/0x8519EA49c997f50cefFa444d240fB655e89248Aa.png"
   }
 ]
