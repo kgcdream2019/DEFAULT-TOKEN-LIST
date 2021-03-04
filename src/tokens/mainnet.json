@@ -755,4 +755,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x8519EA49c997f50cefFa444d240fB655e89248Aa.png"
   }
+  ,
+  {
+    "name": "TokenPocket Token",
+    "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+    "symbol": "TPT",
+    "decimals": 4,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xECa41281c24451168a37211F0bc2b8645AF45092.png"
+  }
 ]
