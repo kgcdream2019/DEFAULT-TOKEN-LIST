@@ -764,4 +764,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xECa41281c24451168a37211F0bc2b8645AF45092.png"
   }
+  ,
+  {
+    "name": "Tutti Frutti",
+    "address": "0x2d69c55baEcefC6ec815239DA0a985747B50Db6E",
+    "symbol": "TFF",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x2d69c55baEcefC6ec815239DA0a985747B50Db6E.png"
+  }
 ]
