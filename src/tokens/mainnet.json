@@ -1,776 +1,754 @@
 [
   {
-    "name": "Wrapped BNB",
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "symbol": "WBNB",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    "name": "Heco-Peg HUSD Token",
+    "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
   },
   {
-    "name": "BTCB Token",
-    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-    "symbol": "BTCB",
+    "name": "Wrapped HT",
+    "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+    "symbol": "WHT",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
   },
   {
-    "name": "Ethereum Token",
-    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "name": "Heco-Peg ETH Token",
+    "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
     "symbol": "ETH",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
   },
   {
-    "name": "Tether USD",
-    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "name": "Heco-Peg HBTC Token",
+    "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+    "symbol": "HBTC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6941.png"
+  },
+  {
+    "name": "Heco-Peg HDOT Token",
+    "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+    "symbol": "HDOT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+  },
+  {
+    "name": "Heco-Peg HLTC Token",
+    "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
+    "symbol": "HLTC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+  },
+  {
+    "name": "Heco-Peg HBCH Token",
+    "address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375",
+    "symbol": "HBCH",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+  },
+  {
+    "name": "Heco-Peg HXTZ Token",
+    "address": "0x45e97daD828AD735af1dF0473fc2735F0Fd5330c",
+    "symbol": "HXTZ",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+  },
+  {
+    "name": "Heco-Peg HFIL Token",
+    "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
+    "symbol": "HFIL",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+  },
+  {
+    "name": "Heco-Peg HBSV Token",
+    "address": "0xc2CB6B5357CcCE1B99Cd22232942D9A225Ea4eb1",
+    "symbol": "HBSV",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png"
+  },
+  {
+    "name": "Heco BAG Token",
+    "address": "0xa042fb0e60125A4022670014AC121931e7501Af4",
+    "symbol": "BAG",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://ht.mdex.com/images/bag.png"
+  },
+  {
+    "name": "Heco BAGS Token",
+    "address": "0x6868D406a125Eb30886A6DD6B651D81677d1F22c",
+    "symbol": "BAGS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://ht.mdex.com/images/bags.png"
+  },
+  {
+    "name": "Heco NVT Token",
+    "address": "0xf0E406c49C63AbF358030A299C0E00118C4C6BA5",
+    "symbol": "NVT",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
+  },
+  {
+    "name": "Heco FilDA Token",
+    "address": "0xE36FFD17B2661EB57144cEaEf942D95295E637F0",
+    "symbol": "FilDA",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://ht.mdex.com/images/FilDA.png"
+  },
+  {
+    "name": "Heco LYFI Token",
+    "address": "0xA441b796E160E204Cd0f53D3216275056a355980",
+    "symbol": "LYFI",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
+  },
+  {
+    "name": "Heco FC Token",
+    "address": "0x12fAC6B5Fa0bc6250058D99d3a1727628651c12E",
+    "symbol": "FC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
+  },
+  {
+    "name": "Heco FCS Token",
+    "address": "0x1b31b55cD94493d06C7a51678fb1Fe8963258A5d",
+    "symbol": "FCS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
+  },
+  {
+    "name": "Heco NULS Token",
+    "address": "0xD938e45680dA19ad36646AE8D4C671B2b1270F39",
+    "symbol": "NULS",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
+  },
+  {
+    "name": "Heco-Peg HPT Token",
+    "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+    "symbol": "HPT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+  },
+  {
+    "name": "Heco HTC Token",
+    "address": "0x1d9B88ffFb7B78De890729aF67B68aec2eA57D52",
+    "symbol": "HTC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
+  },
+  {
+    "name": "Heco HTS Token",
+    "address": "0x559c0af22D0d3efA9a8b95f2E4eaf6017aEa4c22",
+    "symbol": "HTS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
+  },
+  {
+    "name": "Heco BLC Token",
+    "address": "0x8AD1caE277B17Ca0Ad0393100E6EBd545B9367Cb",
+    "symbol": "BLC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xc657d9664f9a011a3aededab8a0296dc60284e5f.png"
+  },
+  {
+    "name": "Heco BLS Token",
+    "address": "0xc44468670837b8e0Cc39Cb822FFd2fE36Fb02Bb7",
+    "symbol": "BLS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
+  },
+  {
+    "name": "Heco LHB Token",
+    "address": "0x8F67854497218043E1f72908FFE38D0Ed7F24721",
+    "symbol": "LHB",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x8f67854497218043e1f72908ffe38d0ed7f24721.png"
+  },
+  {
+    "name": "Heco-Peg USDTHECO Token",
+    "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
     "symbol": "USDT",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x55d398326f99059fF775485246999027B3197955.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
   },
   {
-    "name": "XRP Token",
-    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-    "symbol": "XRP",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
-  },
-  {
-    "name": "ChainLink Token",
-    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
-    "symbol": "LINK",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
-  },
-  {
-    "name": "Bitcoin Cash Token",
-    "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-    "symbol": "BCH",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
-  },
-  {
-    "name": "Polkadot Token",
-    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-    "symbol": "DOT",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
-  },
-  {
-    "name": "Litecoin Token",
-    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-    "symbol": "LTC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
-  },
-  {
-    "name": "EOS Token",
-    "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
-    "symbol": "EOS",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
-  },
-  {
-    "name": "Cardano Token",
-    "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-    "symbol": "ADA",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
-  },
-  {
-    "name": "Tezos Token",
-    "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
-    "symbol": "XTZ",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
-  },
-  {
-    "name": "Ontology Token",
-    "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
-    "symbol": "ONT",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
-  },
-  {
-    "name": "Dai Token",
-    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-    "symbol": "DAI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
-  },
-  {
-    "name": "Band Protocol Token",
-    "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
-    "symbol": "BAND",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png"
-  },
-  {
-    "name": "BUSD Token",
-    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
-  },
-  {
-    "name": "Prometeus",
-    "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
-    "symbol": "PROM",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
-  },
-  {
-    "name": "CanYaCoin",
-    "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
-    "symbol": "CAN",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56.png"
-  },
-  {
-    "name": "SPARTAN PROTOCOL TOKEN",
-    "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
-    "symbol": "SPARTA",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
-  },
-  {
-    "name": "Milk Protocol",
-    "address": "0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF",
-    "symbol": "MILK",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF.png"
-  },
-  {
-    "name": "Burger Swap",
-    "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
-    "symbol": "BURGER",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
-  },
-  {
-    "name": "PeachToken",
-    "address": "0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C",
-    "symbol": "PEACH",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C.png"
-  },
-  {
-    "name": "TunaToken",
-    "address": "0x40929FB2008c830731A3d972950bC13f70161c75",
-    "symbol": "TUNA",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x40929FB2008c830731A3d972950bC13f70161c75.png"
-  },
-  {
-    "name": "Coco Token",
-    "address": "0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C",
-    "symbol": "COCO",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C.png"
-  },
-  {
-    "name": "BakeryToken",
-    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-    "symbol": "BAKE",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
-  },
-  {
-    "name": "Cosmos Token",
-    "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-    "symbol": "ATOM",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
-  },
-  {
-    "name": "Zcash Token",
-    "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
-    "symbol": "ZEC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
-  },
-  {
-    "name": "YFII.finance Token",
-    "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
-    "symbol": "YFII",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
-  },
-  {
-    "name": "VTBC",
-    "address": "0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
-    "symbol": "VTBC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F.png"
-  },
-  {
-    "name": "BFis.Finance",
-    "address": "0xAFa4f3D72f0803B50C99663B3E90806d9D290770",
-    "symbol": "BFI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xAFa4f3D72f0803B50C99663B3E90806d9D290770.png"
-  },
-  {
-    "name": "Cream",
-    "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
-    "symbol": "CREAM",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888.png"
-  },
-  {
-    "name": "Cream BNB",
-    "address": "0x1Ffe17B99b439bE0aFC831239dDECda2A790fF3A",
-    "symbol": "crBNB",
-    "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x1Ffe17B99b439bE0aFC831239dDECda2A790fF3A.png"
-  },
-  {
-    "name": "Cream Binance USD",
-    "address": "0x2Bc4eb013DDee29D37920938B96d353171289B7C",
-    "symbol": "crBUSD",
-    "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x2Bc4eb013DDee29D37920938B96d353171289B7C.png"
-  },
-  {
-    "name": "The Force Token",
-    "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
-    "symbol": "FOR",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
-  },
-  {
-    "name": "Anyswap-BEP20",
-    "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
-    "symbol": "ANY",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
-  },
-  {
-    "name": "Uniswap-BEP20",
-    "address": "0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F",
-    "symbol": "anyUNI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F.png"
-  },
-  {
-    "name": "Billion Happiness",
-    "address": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
-    "symbol": "BHC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4.png"
-  },
-  {
-    "name": "beefy.finance",
-    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
-    "symbol": "BIFI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
-  },
-  {
-    "name": "JustLiquidity",
-    "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
-    "symbol": "JULb",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
-  },
-  {
-    "name": "Propel",
-    "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
-    "symbol": "PROPEL",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x9B44Df3318972bE845d83f961735609137C4C23c.png"
-  },
-  {
-    "name": "Pancake Token",
-    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-    "symbol": "Cake",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-  },
-  {
-    "name": "Jeo Exchange",
-    "address": "0x7687cCf12c424A4dd3eebde09809e3e38c883FAF",
-    "symbol": "JEO",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x7687cCf12c424A4dd3eebde09809e3e38c883FAF.png"
-  },
-  {
-    "name": "BNB48 Club Token",
-    "address": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
-    "symbol": "KOGE",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xe6DF05CE8C8301223373CF5B969AFCb1498c5528.png"
-  },
-  {
-    "name": "SyrupBar Token",
-    "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
-    "symbol": "SYRUP",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x009cF7bC57584b7998236eff51b98A168DceA9B0.png"
-  },
-  {
-    "name": "Ankr",
-    "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
-    "symbol": "ANKR",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png"
-  },
-  {
-    "name": "Raven Protocol",
-    "address": "0xcD7C5025753a49f1881B31C48caA7C517Bb46308",
-    "symbol": "RAVEN",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xcD7C5025753a49f1881B31C48caA7C517Bb46308.png"
-  },
-  {
-    "name": "Cubiex",
-    "address": "0x34681C1035F97E1eDcccec5f142e02FF81a3A230",
-    "symbol": "CBIX",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x34681C1035F97E1eDcccec5f142e02FF81a3A230.png"
-  },
-  {
-    "name": "Streamity",
-    "address": "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
-    "symbol": "STM",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb.png"
-  },
-  {
-    "name": "DOS Network Token BEP20",
-    "address": "0xDc0f0a5719c39764b011eDd02811BD228296887C",
-    "symbol": "DOS",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xDc0f0a5719c39764b011eDd02811BD228296887C.png"
-  },
-  {
-    "name": "Bitcoinrand",
-    "address": "0x3791cC676C34F82e9438Ed9752eC5dBC983a0BBc",
-    "symbol": "BZAR",
-    "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x3791cC676C34F82e9438Ed9752eC5dBC983a0BBc.png"
-  },
-  {
-    "name": "InnovativeBioresearchCoin",
-    "address": "0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19",
-    "symbol": "INNBC",
+    "name": "Heco-Peg USDC-HECO Token",
+    "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+    "symbol": "USDC",
     "decimals": 6,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
   },
   {
-    "name": "Pumpkin Finance",
-    "address": "0x505B3EFf56467c6892AF2Ab885781a876254d14A",
-    "symbol": "PUMK",
+    "name": "MDX",
+    "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+    "symbol": "MDX",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x505B3EFf56467c6892AF2Ab885781a876254d14A.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
   },
   {
-    "name": "Venus",
-    "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
-    "symbol": "XVS",
+    "name": "BXC",
+    "address": "0x15F4c382926F8A083bC924AbD3aa84Ce3982CAa9",
+    "symbol": "BXC",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x15f4c382926f8a083bc924abd3aa84ce3982caa9.png"
   },
   {
-    "name": "Thugs.Finance",
-    "address": "0xE10e9822A5de22F8761919310DDA35CD997d63c0",
-    "symbol": "THUGS",
+    "name": "BXS",
+    "address": "0xbe0e001A5553f4421DC250A20bBdAb0e735495e3",
+    "symbol": "BXS",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xbe0e001a5553f4421dc250a20bbdab0e735495e3.png"
   },
   {
-    "name": "Trust Wallet",
-    "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
-    "symbol": "TWT",
+    "name": "ELA",
+    "address": "0xa1ecFc2beC06E4b43dDd423b94Fef84d0dBc8F5c",
+    "symbol": "ELA",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c.png"
   },
   {
-    "name": "Love",
-    "address": "0x33a80dcB2fEaeb37373c4FBDa26Cd8A31c079128",
-    "symbol": "LOVE",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x33a80dcB2fEaeb37373c4FBDa26Cd8A31c079128.png"
+    "name": "SH",
+    "address": "0x3dc2536480775d0aB5d1D010B853cd2166cf6e11",
+    "symbol": "SH",
+    "decimals": 12,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11.png"
   },
   {
-    "name": "Degenerates",
-    "address": "0xb37B51C5C4C934468B49b55FeC15e76c9b538fF3",
-    "symbol": "DEGEN",
+    "name": "HIC",
+    "address": "0xc6794C116198861fa371b820BD5BF1ecf94a3565",
+    "symbol": "HIC",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xb37B51C5C4C934468B49b55FeC15e76c9b538fF3.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xc6794c116198861fa371b820bd5bf1ecf94a3565.png"
   },
   {
-    "name": "Mother Earth",
-    "address": "0x3BEE8422f2e6F99C43351ebe53B0b7A6c3079255",
-    "symbol": "EARTH",
+    "name": "HIS",
+    "address": "0x3513F22a33357Ba82373680B14f0B50642d0709d",
+    "symbol": "HIS",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x3BEE8422f2e6F99C43351ebe53B0b7A6c3079255.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x3513f22a33357ba82373680b14f0b50642d0709d.png"
   },
   {
-    "name": "Crescent Moon",
-    "address": "0x9e90aF2Ea159190c84012b09067689ba8ac0d9B3",
-    "symbol": "MOON",
+    "name": "GTL",
+    "address": "0xA352bAa250dea5a279C825CF826891d9543bF21c",
+    "symbol": "GTL",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x9e90aF2Ea159190c84012b09067689ba8ac0d9B3.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
   },
   {
-    "name": "Moon Rabbit",
-    "address": "0x8C4fC5416160Bf4A1be2128aaD8a709f15B50B1B",
-    "symbol": "RABBIT",
+    "name": "GTLT",
+    "address": "0x9234d966a3aC7436ad770fb6b340B424A90b0CBb",
+    "symbol": "GTLT",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x8C4fC5416160Bf4A1be2128aaD8a709f15B50B1B.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
   },
   {
-    "name": "BSCswap",
-    "address": "0xacc234978A5eb941665fD051Ca48765610D82584",
-    "symbol": "BSWAP",
+    "name": "ITF",
+    "address": "0x943D97ad0b597F73425d6f740596D0efD3d62507",
+    "symbol": "ITF",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xacc234978A5eb941665fD051Ca48765610D82584.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x943d97ad0b597f73425d6f740596d0efd3d62507.png"
   },
   {
-    "name": "LOA DeFi",
-    "address": "0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640",
-    "symbol": "LFI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640.png"
+    "name": "DBC",
+    "address": "0x80DccC9BDC9b1659a226AE669457BD1e0b293A9b",
+    "symbol": "DBC",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x80dccc9bdc9b1659a226ae669457bd1e0b293a9b.png"
   },
   {
-    "name": "BAI Stablecoin",
-    "address": "0xaA8012a0Ea627767545a8E435C2A2BD51f60173D",
-    "symbol": "BAI",
+    "name": "SOVI",
+    "address": "0x49e16563a2ba84E560780946f0Fb73A8B32C841E",
+    "symbol": "SOVI",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xaA8012a0Ea627767545a8E435C2A2BD51f60173D.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x49e16563a2ba84e560780946f0fb73a8b32c841e.png"
   },
   {
-    "name": "DrugsToken",
-    "address": "0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7",
-    "symbol": "DRUGS",
+    "name": "PTT",
+    "address": "0x7Eed8a3ccfe3d507ec4Df443773eaE792b9eF2d7",
+    "symbol": "PTT",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x7eed8a3ccfe3d507ec4df443773eae792b9ef2d7.png"
   },
   {
-    "name": "Lord of War",
-    "address": "0x179983892eC36287f1F342443B671Ba549762241",
-    "symbol": "GUNS",
+    "name": "Can",
+    "address": "0x1e6395E6B059fc97a4ddA925b6c5ebf19E05c69f",
+    "symbol": "Can",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x179983892eC36287f1F342443B671Ba549762241.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x1e6395e6b059fc97a4dda925b6c5ebf19e05c69f.png"
   },
   {
-    "name": "Nyanswop Token",
-    "address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
-    "symbol": "NYA",
+    "name": "SLNV2",
+    "address": "0x4e252342cf35Ff02c4CCA9bc655129f5b4a2f901",
+    "symbol": "SLNV2",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xbFa0841F7a90c4CE6643f651756EE340991F99D5.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x4e252342cf35ff02c4cca9bc655129f5b4a2f901.png"
   },
   {
-    "name": "ColaToken",
-    "address": "0x740426e58a10aC3b6724f753C8468288248137F9",
-    "symbol": "COLA",
+    "name": "AAVE",
+    "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
+    "symbol": "AAVE",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x740426e58a10aC3b6724f753C8468288248137F9.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x202b4936fe1a82a4965220860ae46d7d3939bb25.png"
   },
   {
-    "name": "LegendXtoken",
-    "address": "0x0D31a88a914518a489FB59Cca05902234A230C66",
-    "symbol": "LGX",
+    "name": "SNX",
+    "address": "0x777850281719d5a96C29812ab72f822E0e09F3Da",
+    "symbol": "SNX",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x0D31a88a914518a489FB59Cca05902234A230C66.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x777850281719d5a96c29812ab72f822e0e09f3da.png"
   },
   {
-    "name": "BSC FARM",
-    "address": "0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
-    "symbol": "BSC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88.png"
-  },
-  {
-    "name": "Seven Up Token",
-    "address": "0x29f350B3822F51dc29619C583AdBC9628646E315",
-    "symbol": "7UP",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x29f350B3822F51dc29619C583AdBC9628646E315.png"
-  },
-  {
-    "name": "DuckToken",
-    "address": "0xA478d908F149561e9eAfBC3FA070781Ed350FeB9",
-    "symbol": "DUCK",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xA478d908F149561e9eAfBC3FA070781Ed350FeB9.png"
-  },
-  {
-    "name": "Bestswap Token",
-    "address": "0x10747e2045a0ef884a0586AC81558F43285ea3c7",
-    "symbol": "BEST",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x10747e2045a0ef884a0586AC81558F43285ea3c7.png"
-  },
-  {
-    "name": "JNTR/b",
-    "address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
-    "symbol": "JNTR/b",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x3c037C4c2296f280bB318D725D0b454B76c199b9.png"
-  },
-  {
-    "name": "HARD",
-    "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
-    "symbol": "HARD",
-    "decimals": 6,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4.png"
-  },
-  {
-    "name": "VIDT Datalink",
-    "address": "0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110",
-    "symbol": "VIDT",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110.png"
-  },
-  {
-    "name": "ROOBEE",
-    "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
-    "symbol": "bROOBEE",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe.png"
-  },
-  {
-    "name": "CertiK Token",
-    "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
-    "symbol": "CTK",
-    "decimals": 6,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
-  }
-  ,
-  {
-    "name": "Vox.Finance",
-    "address": "0xC227f8EECC481A8e8BAa30A4754B109b81C4DfA4",
-    "symbol": "VOXb",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xC227f8EECC481A8e8BAa30A4754B109b81C4DfA4.png"
-  }
-  ,
-  {
-    "name": "OBRB",
-    "address": "0xe49ed1B44117BB7379c1506cf5815aE33089e1A7",
-    "symbol": "OBRb",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xe49ed1B44117BB7379c1506cf5815aE33089e1A7.png"
-  }
-  ,
-  {
-    "name": "SWGb",
-    "address": "0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
-    "symbol": "SWGb",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb.png"
-  }
-  ,
-  {
-    "name": "JulSwap",
-    "address": "0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea",
-    "symbol": "JulD",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea.png"
-  }
-  ,
-  {
-    "name": "Binance-Peg Uniswap",
-    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "name": "UNI",
+    "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
     "symbol": "UNI",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x22c54ce8321a4015740ee1109d9cbc25815c46e6.png"
   },
   {
-    "name": "StaysBASE",
-    "address": "0xc1D99537392084Cc02D3F52386729b79d01035ce",
-    "symbol": "SBS",
+    "name": "EDC",
+    "address": "0x68a0A1fEF18DfCC422Db8bE6F0F486dEa1999EDC",
+    "symbol": "EDC",
     "decimals": 9,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xc1D99537392084Cc02D3F52386729b79d01035ce.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
   },
   {
-    "name": "Advocate Coin",
-    "address": "0x4DF1E1164fcF7Bf4C70861543A672994Dc574c30",
-    "symbol": "ACC",
+    "name": "DHM",
+    "address": "0xca757A8fc34c5d65f38792f329b05E7d9ca8b18E",
+    "symbol": "DHM",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x4DF1E1164fcF7Bf4C70861543A672994Dc574c30.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xca757a8fc34c5d65f38792f329b05e7d9ca8b18e.png"
   },
   {
-    "name": "ETHb",
-    "address": "0xc5137E8e017799e71A65e0cFe3F340d719AF17D3",
-    "symbol": "ETHb",
+    "name": "LINK",
+    "address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
+    "symbol": "LINK",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xc5137E8e017799e71A65e0cFe3F340d719AF17D3.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x9e004545c59d359f6b7bfb06a26390b087717b42.png"
   },
   {
-    "name": "YVS.Finance on BSC",
-    "address": "0x47c1C7B9D7941A7265D123DCfb100D8FB5348213",
-    "symbol": "YVS",
+    "name": "BAL",
+    "address": "0x045De15Ca76e76426E8Fc7cba8392A3138078D0F",
+    "symbol": "BAL",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x47c1C7B9D7941A7265D123DCfb100D8FB5348213.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x045de15ca76e76426e8fc7cba8392a3138078d0f.png"
+  },
   {
-    "name": "Binance-Peg Dogecoin",
-    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
-    "symbol": "DOGE",
+    "name": "YFI",
+    "address": "0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35",
+    "symbol": "YFI",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xb4f019beac758abbee2f906033aaa2f0f6dacb35.png"
+  },
+  {
+    "name": "BEE",
+    "address": "0xB1F80844a1B84c61ab80CafD88B1f8c09f9342e1",
+    "symbol": "BEE",
     "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xb1f80844a1b84c61ab80cafd88b1f8c09f9342e1.png"
+  },
   {
-    "name": "HappinessToken",
-    "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
-    "symbol": "HPS",
+    "name": "HFI",
+    "address": "0x98fc3b60Ed4A504F588342A53746405E355F9347",
+    "symbol": "HFI",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x98fc3b60ed4a504f588342a53746405e355f9347.png"
+  },
   {
-    "name": "Curate on BSC",
-    "address": "0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
-    "symbol": "XCUR",
-    "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2.png"
-  }
-  ,
-  {
-    "name": "SparkPoint on BSC",
-    "address": "0x3B1eC92288D78D421f97562f8D479e6fF7350a16",
-    "symbol": "SRK",
+    "name": "LAVA",
+    "address": "0x56f95662E71f30b333b456439248c6dE589082a4",
+    "symbol": "LAVA",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x3B1eC92288D78D421f97562f8D479e6fF7350a16.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x56f95662e71f30b333b456439248c6de589082a4.png"
+  },
   {
-    "name": "Shield Protocol",
-    "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
-    "symbol": "SHIELD",
+    "name": "DMC",
+    "address": "0x854Bb58fDDa85F20b5aB20B20d888f0554c02560",
+    "symbol": "DMC",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x60b3BC37593853c04410c4F07fE4D6748245BF77.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x854bb58fdda85f20b5ab20b20d888f0554c02560.png"
+  },
   {
-    "name": "Lead Token on BSC",
-    "address": "0x2ed9e96EDd11A1fF5163599A66fb6f1C77FA9C66",
-    "symbol": "LEAD",
+    "name": "HBO",
+    "address": "0x8764Bd4fcc027faF72bA83c0b2028a3BAE0D2D57",
+    "symbol": "HBO",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x2ed9e96EDd11A1fF5163599A66fb6f1C77FA9C66.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57.png"
+  },
   {
-    "name": "RAMP DEFI",
-    "address": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
-    "symbol": "RAMP",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x8519EA49c997f50cefFa444d240fB655e89248Aa.png"
-  }
-  ,
-  {
-    "name": "TokenPocket Token",
-    "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+    "name": "TPT",
+    "address": "0x9ef1918a9beE17054B35108bD3E2665e2Af1Bb1b",
     "symbol": "TPT",
     "decimals": 4,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xECa41281c24451168a37211F0bc2b8645AF45092.png"
-  }
-  ,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b.png"
+  },
   {
-    "name": "Tutti Frutti",
-    "address": "0x2d69c55baEcefC6ec815239DA0a985747B50Db6E",
-    "symbol": "TFF",
+    "name": "GDT",
+    "address": "0x0F1ed0E22a74A90D92746A1794394DA117e4De40",
+    "symbol": "GDT",
     "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0x2d69c55baEcefC6ec815239DA0a985747B50Db6E.png"
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x0f1ed0e22a74a90d92746a1794394da117e4de40.png"
+  },
+  {
+    "name": "HBC",
+    "address": "0x72bd642c5d097344814aFE23F7e6001F19f6204A",
+    "symbol": "HBC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x72bd642c5d097344814afe23f7e6001f19f6204a.png"
+  },
+  {
+    "name": "HBS",
+    "address": "0x7d7063f3dca97eaE63545a266c77587dD0296090",
+    "symbol": "HBS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x7d7063f3dca97eae63545a266c77587dd0296090.png"
+  },
+  {
+    "name": "PNEO",
+    "address": "0x6514a5Ebff7944099591Ae3e8A5c0979C83B2571",
+    "symbol": "PNEO",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x6514a5ebff7944099591ae3e8a5c0979c83b2571.png"
+  },
+  {
+    "name": "SHARE",
+    "address": "0x41198c6736d23734E6d17a6F0B4f2D15d2621A3a",
+    "symbol": "SHARE",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x41198c6736d23734e6d17a6f0b4f2d15d2621a3a.png"
+  },
+  {
+    "name": "SCASH",
+    "address": "0xb6ccFA7Ef3a295932536E0988CffD85228cB177c",
+    "symbol": "SCASH",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xb6ccfa7ef3a295932536e0988cffd85228cb177c.png"
+  },
+  {
+    "name": "GOF",
+    "address": "0x2AAFe3c9118DB36A20dd4A942b6ff3e78981dce1",
+    "symbol": "GOF",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1.png"
+  },
+  {
+    "name": "BKK",
+    "address": "0x350aE659B0010895b9E18400e9356B43BABc9139",
+    "symbol": "BKK",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x350ae659b0010895b9e18400e9356b43babc9139.png"
+  },
+  {
+    "name": "MX",
+    "address": "0x48C1D1f0d5281FbB0bec2E699846fA615d55f3D4",
+    "symbol": "MX",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x48c1d1f0d5281fbb0bec2e699846fa615d55f3d4.png"
+  },
+  {
+    "name": "MATTER",
+    "address": "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
+    "symbol": "MATTER",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f.png"
+  },
+  {
+    "name": "SWFTC",
+    "address": "0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3",
+    "symbol": "SWFTC",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3.png"
+  },
+  {
+    "name": "DEP",
+    "address": "0x48C859531254F25e57D1C1A8E030Ef0B1c895c27",
+    "symbol": "DEP",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x48c859531254f25e57d1c1a8e030ef0b1c895c27.png"
+  },
+  {
+    "name": "DFT",
+    "address": "0x42712dF5009c20fee340B245b510c0395896cF6e",
+    "symbol": "DFT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x42712df5009c20fee340b245b510c0395896cf6e.png"
+  },
+  {
+    "name": "XF",
+    "address": "0xE0fE25EeFCfcadDEF844fe30b8Be1d68ac6B7aF3",
+    "symbol": "XF",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3.png"
+  },
+  {
+    "name": "HYOT",
+    "address": "0x9EDE2Df15DEeEE26A916B9B93Ea7d9363D7531D7",
+    "symbol": "HYOT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x9ede2df15deeee26a916b9b93ea7d9363d7531d7.png"
+  },
+  {
+    "name": "HWIN",
+    "address": "0x2eFFC887B3195D7c8f3966A07c421D828E8F8AeE",
+    "symbol": "HWIN",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x2effc887b3195d7c8f3966a07c421d828e8f8aee.png"
+  },
+  {
+    "name": "NHA",
+    "address": "0x958788357d9C9f0C3eAc4BFDF6869aB94710734D",
+    "symbol": "NHA",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x958788357d9c9f0c3eac4bfdf6869ab94710734d.png"
+  },
+  {
+    "name": "MKR",
+    "address": "0x34D75515090902a513F009f4505A750efaaD63b0",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x34d75515090902a513f009f4505a750efaad63b0.png"
+  },
+  {
+    "name": "COMP",
+    "address": "0xCe0A5CA134fb59402B723412994B30E02f083842",
+    "symbol": "COMP",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xce0a5ca134fb59402b723412994b30e02f083842.png"
+  },
+  {
+    "name": "COPR",
+    "address": "0x46EFB7724364ded21b3598519D754323A4f66EC9",
+    "symbol": "COPR",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x46efb7724364ded21b3598519d754323a4f66ec9.png"
+  },
+  {
+    "name": "FIX",
+    "address": "0xDe9495De889996404b14dDBf05f66Db7401F0733",
+    "symbol": "FIX",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xde9495de889996404b14ddbf05f66db7401f0733.png"
+  },
+  {
+    "name": "AS",
+    "address": "0x891dAABF6de7a648C9665928E1097b808C1721e2",
+    "symbol": "AS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
+  },
+  {
+    "name": "VNLA",
+    "address": "0xE09A504071C0c1483E86727fb95f550a0559d9D2",
+    "symbol": "VNLA",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xe09a504071c0c1483e86727fb95f550a0559d9d2.png"
+  },
+  {
+    "name": "ODT",
+    "address": "0x991075Cc14A91Fe001528943B3EB6DF31CfF431F",
+    "symbol": "ODT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x991075cc14a91fe001528943b3eb6df31cff431f.png"
+  },
+  {
+    "name": "LLC",
+    "address": "0x6A4db3965CB6293dBA0F63F14FB36873172E38d3",
+    "symbol": "LLC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x6a4db3965cb6293dba0f63f14fb36873172e38d3.png"
+  },
+  {
+    "name": "LLS",
+    "address": "0x5a42eeD7200d23F0D4CF35Ccd582D6d363F16BFc",
+    "symbol": "LLS",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x5a42eed7200d23f0d4cf35ccd582d6d363f16bfc.png"
+  },
+  {
+    "name": "HNB",
+    "address": "0x704F96F04279ec8eB570e520EFcE56F9245CAc38",
+    "symbol": "HNB",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x704f96f04279ec8eb570e520efce56f9245cac38.png"
+  },
+  {
+    "name": "PTD",
+    "address": "0x52Ee54dd7a68e9cf131b0a57fd6015C74d7140E2",
+    "symbol": "PTD",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2.png"
+  },
+  {
+    "name": "ANO",
+    "address": "0x9E9842bd60cA6CDD4D17532433a2EA41c723a40D",
+    "symbol": "ANO",
+    "decimals": 8,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d.png"
+  },
+  {
+    "name": "CON",
+    "address": "0xeEF1324343ca7Bf6e743e21Dd9e92Dfa4eFc3a56",
+    "symbol": "CON",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56.png"
+  },
+  {
+    "name": "GDB",
+    "address": "0x9193754bA76c2DE16BeC8bE02590821cc9798acC",
+    "symbol": "GDB",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x9193754ba76c2de16bec8be02590821cc9798acc.png"
+  },
+  {
+    "name": "sHT",
+    "address": "0xbBe6C2337a2543239FF313Bed370e4eAEda268eF",
+    "symbol": "sHT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xbbe6c2337a2543239ff313bed370e4eaeda268ef.png"
+  },
+  {
+    "name": "sNEO",
+    "address": "0x2f92C6e8ed836B5d507251b59d816A55F1B853cC",
+    "symbol": "sNEO",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x2f92c6e8ed836b5d507251b59d816a55f1b853cc.png"
+  },
+  {
+    "name": "HGT",
+    "address": "0xfD6cE15009D46c6327649218431E8643F82f6D64",
+    "symbol": "HGT",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xfd6ce15009d46c6327649218431e8643f82f6d64.png"
+  },
+  {
+    "name": "BXH",
+    "address": "0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0",
+    "symbol": "BXH",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0.png"
+  },
+  {
+    "name": "XC",
+    "address": "0xb1A9a1585A553f2170fC68D402a278Af5D186c79",
+    "symbol": "XC",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xb1a9a1585a553f2170fc68d402a278af5d186c79.png"
+  },
+  {
+    "name": "HTM",
+    "address": "0x80C66D460E2bB9d31a8De54b4016fcA986D0811F",
+    "symbol": "HTM",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x80c66d460e2bb9d31a8de54b4016fca986d0811f.png"
+  },
+  {
+    "name": "DORA",
+    "address": "0x7Ab088FedAE4FA8ada4Df638c07CEF6C23Aff002",
+    "symbol": "DORA",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0x7ab088fedae4fa8ada4df638c07cef6c23aff002.png"
+  },
+  {
+    "name": "PIPI",
+    "address": "0xaAaE746b5e55D14398879312660e9fDe07FBC1DC",
+    "symbol": "PIPI",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://mdex.com/token-icons/heco/0xaaae746b5e55d14398879312660e9fde07fbc1dc.png"
   }
 ]

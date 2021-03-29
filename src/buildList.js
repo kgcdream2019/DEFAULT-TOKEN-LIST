@@ -13,7 +13,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://tokens.julswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png',
+    'logoURI': 'https://tokens.julswap.com/images/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F.png',
     'keywords': [
       'julswap',
       'default'
