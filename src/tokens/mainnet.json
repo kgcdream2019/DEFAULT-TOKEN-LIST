@@ -773,4 +773,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x2d69c55baEcefC6ec815239DA0a985747B50Db6E.png"
   }
+  ,
+  {
+    "name": "DeFi For You.",
+    "address": "0xD98560689C6e748DC37bc410B4d3096B1aA3D8C2",
+    "symbol": "DFY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xD98560689C6e748DC37bc410B4d3096B1aA3D8C2.png"
+  }
 ]
