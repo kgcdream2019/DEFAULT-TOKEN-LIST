@@ -800,4 +800,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xdb4f6f4Da42ccb25b7A462942d81d229Ea3CA9cE.png"
   }
+  ,
+  {
+    "name": "Lendefi Token",
+    "address": "0xAe1119B918f971F232FED504D48604D5FeF7277F",
+    "symbol": "LDFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xAe1119B918f971F232FED504D48604D5FeF7277F.png"
+  }
 ]
