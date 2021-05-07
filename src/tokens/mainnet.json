@@ -809,4 +809,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xAe1119B918f971F232FED504D48604D5FeF7277F.png"
   }
+  ,
+  {
+    "name": "BSC conflux",
+    "address": "0x045c4324039dA91c52C55DF5D785385Aab073DcF",
+    "symbol": "bCFX",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x045c4324039dA91c52C55DF5D785385Aab073DcF.png"
+  }
 ]
