@@ -818,4 +818,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x045c4324039dA91c52C55DF5D785385Aab073DcF.png"
   }
+  ,
+  {
+    "name": "Smaugs NFT",
+    "address": "0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16",
+    "symbol": "SMG",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16.png"
+  }
 ]
