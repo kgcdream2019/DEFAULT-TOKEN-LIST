@@ -827,4 +827,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16.png"
   }
+  ,
+  {
+    "name": "Quidax Token",
+    "address": "0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+    "symbol": "QDX",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848.png"
+  }
 ]
