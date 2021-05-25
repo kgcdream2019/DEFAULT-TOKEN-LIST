@@ -836,4 +836,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848.png"
   }
+  ,
+  {
+    "name": "Wall Street Games",
+    "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+    "symbol": "WSG",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xA58950F05FeA2277d2608748412bf9F802eA4901.png"
+  }
 ]
