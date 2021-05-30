@@ -845,4 +845,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xA58950F05FeA2277d2608748412bf9F802eA4901.png"
   }
+  ,
+  {
+    "name": "KITTY Coin",
+    "address": "0x6806a15e9008b710c0f664DB767f7f6f14055632",
+    "symbol": "KITTY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x6806a15e9008b710c0f664DB767f7f6f14055632.png"
+  }
 ]
